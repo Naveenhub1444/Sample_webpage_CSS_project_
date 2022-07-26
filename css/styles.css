@@ -1,0 +1,116 @@
+.fa-facebook-square{
+
+font-size:48px;
+color:lightblue
+}
+
+.glyphicon-user{
+
+color: red;
+
+.navbar{
+  
+}
+
+
+}
+.navbar1{
+	margin-top: -19px;
+}
+
+.navbarlogo{
+
+margin-top: -15px;
+}
+/*.navbarright a{
+
+color: white !important;
+
+
+
+}*/
+
+
+.carouselmain{
+
+height: 450px;
+width: 100%;
+
+
+
+}
+.carousel-inner{
+	object-fit: contain;
+}
+
+.item{
+
+background-image: url(../images/104727.jpg);
+background-size: cover;
+width: 100%;
+height: 450px;
+}
+.car{
+	margin-top: -20px;
+}
+
+
+
+.arw{
+border: 3px solid white;
+    border-radius: 50%;
+    font-size: 20px !important;
+    width: 45px;
+    height: 28px;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+
+
+}
+.plane{
+	background-image: url(../images/plane.jpg);
+background-size: cover;
+background-position: center center;
+height: 450px;
+}
+
+.input-group{
+
+width: 75% !important;
+
+
+}
+
+.footerhead{
+	background-color: #181818;
+	height: 330px;
+	color: white;
+}
+.btn-warning{
+
+	height: 40px;
+	width: 120px;
+}
+.footer {
+   
+   
+   width: 100%;
+   background-color: black;
+   color: white;
+   
+   height: 100px;
+}
+
+
+
+
+
+
+
+
